@@ -6,10 +6,6 @@
 
 * Deploy the project on Netlify
 
-## Deployment
+## Quest Netlify - Odyssey
 
-* Link to the website deployed on Netlify : [Link]()
-
-## Quête Netlify - Odyssey
-
-* Vous pouvez visiter mon application déployée sur Netlify via ce lien: https://epic-lamport-16673b.netlify.com/ 
+* You can visit my website application by clicking on the following link: https://epic-lamport-16673b.netlify.com/ 
